@@ -1,4 +1,4 @@
-# 样板
+# 四川人家
 
 
 
@@ -17,6 +17,8 @@
 | sponsor | false |
 | website | https://littleszechuanstatecollege.com |
 | phone | \(814\) 308-9906 |
+
+![Little Szechuan](.gitbook/assets/image.png)
 
 餐厅介绍。。。。。。
 
