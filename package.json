@@ -1,0 +1,13 @@
+{
+  "name": "cssa_major_wiki_gitbook",
+  "version": "1.0.0",
+  "description": "Penn State CSSA 美食地图数据集，后端开发：杨铭添",
+  "main": "index.js",
+  "scripts": {
+    "test": "node deploy.js && exit 0"
+  },
+  "author": "Mingtian Yang",
+  "dependencies": {
+    "copy-dir": "^0.4.0"
+  }
+}
